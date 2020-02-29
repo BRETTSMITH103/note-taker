@@ -27,6 +27,7 @@ https://stackoverflow.com/questions/28305120/differences-between-express-router-
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",

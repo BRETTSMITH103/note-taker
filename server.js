@@ -1,7 +1,7 @@
 // import all of the node modules we installed and need to run this app 
 const express = require("express");
 const apiRoutes = require("./routes/apiRoutes");
-const htmlRoutes = require("./routes/htmlRoutes");
+const htmlRoutes = require("./routes/htmlroutes");
 // var mysql = require("mysql");
 
 

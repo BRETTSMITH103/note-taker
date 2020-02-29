@@ -12,5 +12,5 @@ router.post('/api/notes', (req, res) => {
 
   res.json(notes);
 });
-// l;
+
 module.exports = router;
